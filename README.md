@@ -49,6 +49,11 @@ firebase_core: latest_version
 firebase_auth: latest_version
 cloud_firestore: latest_version
 ```
+---
+## Bechfa Doctors - Doctor Management App
+- Bechfa Doctors is a separate mobile app designed for doctors who want their clients to easily see their location. This app allows doctors to manage their availability and location visibility.
+- Note: The code source for Bechfa Doctors is available upon request. Please contact me if you are interested in accessing the source.
+---
 ### Getting started continued:
 
 A few resources to get you started if this is your first Flutter project:
