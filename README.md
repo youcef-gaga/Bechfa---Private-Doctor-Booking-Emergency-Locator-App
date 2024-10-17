@@ -42,6 +42,13 @@ flutter packages pub run build_runner build --delete-conflicting-outputs
 
 This command creates the generated files that parse each Record from Firestore into a schema object.
 
+In your **pubspec.yaml** file, add the following dependencies:
+```
+dependencies:
+firebase_core: latest_version
+firebase_auth: latest_version
+cloud_firestore: latest_version
+```
 ### Getting started continued:
 
 A few resources to get you started if this is your first Flutter project:
