@@ -11,9 +11,9 @@ Features include:
 - Find nearest hospitals during emergencies.
 - Built using Google Maps API and Firebase for real-time data.
 - Let me know if you'd like any adjustments!
-![Screenshot of App](image_1.png)
-![Screenshot of App](image_2.png)
-![Screenshot of App](image_3.png)
+![Screenshot of App](image_1.jpg)
+![Screenshot of App](image_2.jpg)
+![Screenshot of App](image_3.jpg)
 
 ---
 
