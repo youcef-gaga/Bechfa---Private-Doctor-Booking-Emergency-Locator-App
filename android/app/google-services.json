@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "949422092445",
+    "firebase_url": "https://bechfa-1e8d6-default-rtdb.firebaseio.com",
+    "project_id": "bechfa-1e8d6",
+    "storage_bucket": "bechfa-1e8d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949422092445:android:6f7f7102245452451ea474",
+        "android_client_info": {
+          "package_name": "com.mycompany.bechfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949422092445-8ar988e0m8rf9dqmnfv625pa9mlkg69v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.bechfa",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "949422092445-en2vuuu6dc55qq9vohspp7nfhnn9hcl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChIPMG56c11_667tlEoVe4Z6Xz30JHwdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949422092445-en2vuuu6dc55qq9vohspp7nfhnn9hcl9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "949422092445-a52tr60k8goo35fmmd4scg9im8q2cj5a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.bechfaDoctor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949422092445:android:2f1341d34b5fe0951ea474",
+        "android_client_info": {
+          "package_name": "com.mycompany.bechfaDoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949422092445-e8uk79f0npfhbpiq2so18fe501civmbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.bechfaDoctor",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "949422092445-en2vuuu6dc55qq9vohspp7nfhnn9hcl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChIPMG56c11_667tlEoVe4Z6Xz30JHwdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949422092445-en2vuuu6dc55qq9vohspp7nfhnn9hcl9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "949422092445-a52tr60k8goo35fmmd4scg9im8q2cj5a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.bechfaDoctor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
